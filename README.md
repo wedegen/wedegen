@@ -1,6 +1,6 @@
 # TokenFactory - CreateToken API
 
-### TokenFactory Contract Addresses
+### TokenFactory Contract
 - **Base network**: `0xf9a2ca80aee0002e04a6e94283411c24a4fb55db`
 - **World network**: `0x60c4cEED9014a233cd8839F18f81Dbe32AA0F384`
 - **Ethereum network**: To be determined
@@ -12,7 +12,7 @@
 - **Ethereum network (SHIB)**: `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce`
 ---
 
-### Swap Router Addresses
+### Swap Router Contract
 - **World network**: `0x541aB7c31A119441eF3575F6973277DE0eF460bd`
 - **Base network**: `0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24`
 - **Ethereum network**: `0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24`
