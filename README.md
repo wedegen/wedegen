@@ -1,4 +1,4 @@
-# TokenFactory: Token Creation API
+# TokenFactory - Token Creation API
 
 ### TokenFactory Contract Addresses
 - **Base network**: `0xf9a2ca80aee0002e04a6e94283411c24a4fb55db`
