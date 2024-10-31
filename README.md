@@ -1,20 +1,21 @@
-# TokenFactory Api
+# TokenFactory Create Token Api
 
 ### TokenFactory Contract Addresses
-- **Base Chain**: `0xf9a2ca80aee0002e04a6e94283411c24a4fb55db`
-- **World Chain**: `0x60c4cEED9014a233cd8839F18f81Dbe32AA0F384`
-- **ARBITRUM_ONE Chain**: To be determined
+- **Base network**: `0xf9a2ca80aee0002e04a6e94283411c24a4fb55db`
+- **World network**: `0x60c4cEED9014a233cd8839F18f81Dbe32AA0F384`
+- **Ethereum network**: To be determined
 ---
 
 ### Base Token Addresses
-- **Base Chain(DEGEN)**: `0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed`
-- **World Chain(WLD)**: `0x2cFc85d8E48F8EAB294be644d9E25C3030863003`
-- **ARBITRUM_ONE Chain(New)**: `0x7A60485B6B0Db48cff8b3bcF8530e5c90CC84731`
+- **Base network(DEGEN)**: `0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed`
+- **World network(WLD)**: `0x2cFc85d8E48F8EAB294be644d9E25C3030863003`
+- **Ethereum network(SHIB)**: `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce`
 ---
 
 ### Swap Router Addresses
-- **World Chain**: `0x541aB7c31A119441eF3575F6973277DE0eF460bd`
-- **ARBITRUM_ONE Chain、Base Chain**: `0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24`
+- **World network**: `0x541aB7c31A119441eF3575F6973277DE0eF460bd`
+- **Base network**: `0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24`
+- **Ethereum network**: `0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24`
 ---
 
 ### Method: `createToken`
@@ -83,3 +84,4 @@
   "stateMutability": "payable",
   "type": "function"
 }
+```
