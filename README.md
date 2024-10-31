@@ -1,4 +1,4 @@
-# TokenFactory Contract Information
+# TokenFactory Api
 
 ### TokenFactory Contract Addresses
 - **Base Chain**: `0xf9a2ca80aee0002e04a6e94283411c24a4fb55db`
