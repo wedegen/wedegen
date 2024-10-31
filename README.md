@@ -6,10 +6,10 @@
 - **Ethereum network**: To be determined
 ---
 
-### Base Token Addresses
-- **Base network(DEGEN)**: `0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed`
-- **World network(WLD)**: `0x2cFc85d8E48F8EAB294be644d9E25C3030863003`
-- **Ethereum network(SHIB)**: `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce`
+### Benchmark Token Contract
+- **Base network (DEGEN)**: `0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed`
+- **World network (WLD)**: `0x2cFc85d8E48F8EAB294be644d9E25C3030863003`
+- **Ethereum network (SHIB)**: `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce`
 ---
 
 ### Swap Router Addresses
@@ -19,7 +19,7 @@
 ---
 
 ### Method: `createToken`
-**Description**: Used to create an X20 meme token contract.
+**Description**: Used to create an AI social meme token contract.
 
 #### Parameters
 
